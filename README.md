@@ -1,7 +1,7 @@
 # StudentManage
 A demo with java and Servlet
 
-the project is not maven project 
+the project is not a maven project 
 
 IDE is eclipse
 
